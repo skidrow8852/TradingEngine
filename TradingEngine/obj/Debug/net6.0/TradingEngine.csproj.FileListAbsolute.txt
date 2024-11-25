@@ -37,8 +37,6 @@ C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\bin\Debug\net6.0\S
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\bin\Debug\net6.0\System.Text.Json.dll
-C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\bin\Debug\net6.0\LoggingCS.dll
-C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\bin\Debug\net6.0\LoggingCS.pdb
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\obj\Debug\net6.0\TradingEngine.csproj.AssemblyReference.cache
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\obj\Debug\net6.0\TradingEngine.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\obj\Debug\net6.0\TradingEngine.AssemblyInfoInputs.cache
@@ -50,3 +48,5 @@ C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\obj\Debug\net6.0\r
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\obj\Debug\net6.0\TradingEngineServer.Core.pdb
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\obj\Debug\net6.0\TradingEngine.genruntimeconfig.cache
 C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\obj\Debug\net6.0\ref\TradingEngineServer.Core.dll
+C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\bin\Debug\net6.0\TradingEngineServer.Logging.dll
+C:\Users\BlackDragon\source\repos\TradingEngine\TradingEngine\bin\Debug\net6.0\TradingEngineServer.Logging.pdb

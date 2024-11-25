@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "LoggingCS/1.0.0": {
+      "TradingEngineServer.Logging/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Options": "9.0.0"
         },
         "runtime": {
-          "LoggingCS.dll": {}
+          "TradingEngineServer.Logging.dll": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0": {
@@ -53,7 +53,7 @@
     }
   },
   "libraries": {
-    "LoggingCS/1.0.0": {
+    "TradingEngineServer.Logging/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
