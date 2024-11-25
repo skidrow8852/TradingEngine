@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\BlackDragon\\source\\repos\\TradingEngine\\LoggingCS\\LoggingCS.csproj",
-        "projectName": "LoggingCS",
+        "projectName": "TradingEngineServer.Logging",
         "projectPath": "C:\\Users\\BlackDragon\\source\\repos\\TradingEngine\\LoggingCS\\LoggingCS.csproj",
         "packagesPath": "C:\\Users\\BlackDragon\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\BlackDragon\\source\\repos\\TradingEngine\\LoggingCS\\obj\\",

@@ -805,17 +805,17 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "LoggingCS/1.0.0": {
+      "TradingEngineServer.Logging/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.Extensions.Options": "9.0.0"
         },
         "compile": {
-          "bin/placeholder/LoggingCS.dll": {}
+          "bin/placeholder/TradingEngineServer.Logging.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LoggingCS.dll": {}
+          "bin/placeholder/TradingEngineServer.Logging.dll": {}
         }
       }
     }
@@ -2143,7 +2143,7 @@
         "version.txt"
       ]
     },
-    "LoggingCS/1.0.0": {
+    "TradingEngineServer.Logging/1.0.0": {
       "type": "project",
       "path": "../LoggingCS/LoggingCS.csproj",
       "msbuildProject": "../LoggingCS/LoggingCS.csproj"
@@ -2151,9 +2151,9 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "LoggingCS >= 1.0.0",
       "Microsoft.Extensions.Hosting >= 9.0.0",
-      "Microsoft.Extensions.Hosting.Abstractions >= 9.0.0"
+      "Microsoft.Extensions.Hosting.Abstractions >= 9.0.0",
+      "TradingEngineServer.Logging >= 1.0.0"
     ]
   },
   "packageFolders": {

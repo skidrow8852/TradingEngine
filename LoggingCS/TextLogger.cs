@@ -30,7 +30,8 @@ namespace TradingEngineServer.Logging
         protected virtual void Dispose(bool disposing) {
             lock (_lock)
             {
-                if (_disposed) return;
+                if (_disposed) 
+                    return;
                 _disposed = true;
             }
             
