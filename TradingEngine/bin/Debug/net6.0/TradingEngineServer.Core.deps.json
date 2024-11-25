@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "TradingEngineServer.Core/1.0.0": {
         "dependencies": {
+          "LoggingCS": "1.0.0",
           "Microsoft.Extensions.Hosting": "9.0.0",
           "Microsoft.Extensions.Hosting.Abstractions": "9.0.0"
         },
@@ -473,7 +474,15 @@
           }
         }
       },
-      "System.Threading.Tasks.Extensions/4.5.4": {}
+      "System.Threading.Tasks.Extensions/4.5.4": {},
+      "LoggingCS/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "9.0.0"
+        },
+        "runtime": {
+          "LoggingCS.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -754,6 +763,11 @@
       "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
       "path": "system.threading.tasks.extensions/4.5.4",
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    },
+    "LoggingCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
